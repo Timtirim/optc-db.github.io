@@ -1527,8 +1527,10 @@ window.units = [
     [ "Coliseum Arlong", "INT", [ "Striker", "Shooter" ], 3, 16, null, null, null, null, null, null, null, null, null, null, null ],
     [ "Coliseum Arlong, Evolved", "INT", [ "Striker", "Shooter" ], 4, 26, null, null, null, null, null, null, null, null, null, null, null ],
     [ "Coliseum Blenheim", "PSY", [ "Powerhosue", "Slasher" ], 4, 26, null, null, null, null, null, null, null, null, null, null, null ],
-    ];
-    
+    [ "Cavendish Unevolved", "QCK", [ "Slasher", "Free Spirit" ], 4, 30, 6, null, 70, 1778330, null, null, null, null, null, null, 1 ],
+    [ "Cavendish of the White Horse", "QCK", [ "Slasher", "Free Spirit" ], 5, 50, 6, null, 99, 5000000, null, null, null, 2000, 1450, 100, 1 ],
+  ];
+
 // [ "Name", "Type", [ "Class1", "Class2" ], null, null, null, null, null, null, null, null, null, null, null, null, null ],
 // or [ "Name", "Type", "Class1", null, null, null, null, null, null, null, null, null, null, null, null, null ],
 // [ "Name", "Type", [ "Class1", "Class2" ], Stars, Cost, Combo, sockets, maxLVL, EXPToMax, lvl1HP, lvl1ATK, lvl1RCV, MAXHP, MAXATK, MAXRCV, Growth Rate ],

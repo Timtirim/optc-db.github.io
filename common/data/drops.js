@@ -6,7 +6,7 @@ window.drops = {
             name: "Fushia Village",
             thumb: 28,
             global: true,
-            completion: '5x Rainbow Gems',	
+            completion: '5x Rainbow Gems',
             "01": [ 119, 120 ],
             "02": [ 27, 115, 119, 120 ],
             "03": [ 28, 78, 79, 80, 119, 120 ]
@@ -125,7 +125,7 @@ window.drops = {
             "14": [ 65, 117, 123, 133, 136, 137, 138, 142, 143, 144, 149, 152, 153, 154, 159, 171, 175, 176, 177, 178 ],
             "15": [ 62, 63, 65, 113, 114, 121, 122, 123, 126, 127, 128, 131, 132, 133, 136, 137, 138, 145, 146, 147, 148, 149, 150, 151, 155, 156, 173, 174, 175, 176, 177, 178 ],
         },
-        
+
         {
             name: "Logue Town",
             thumb: 69,
@@ -460,7 +460,7 @@ window.drops = {
             "11": [ 893 ],
             "12": [ 406, 815 ]
         },
-        
+
         {
             name: "Sabaody Archipelago",
             shortName: "Sabaody Archipelago",
@@ -482,7 +482,7 @@ window.drops = {
             "13": [ 111, 181, 184, 185, 186, 691, 692, 693, 694, 695, 971 ],
             "14": [ 111, 112, 113, 114, 185, 186, 187, 691, 693, 695, 968, 969, 970, 972, 973 ]
         },
-        
+
         {
             name: "Amazon Lily",
             shortName: "Amazon Lily",
@@ -499,7 +499,7 @@ window.drops = {
             "08": [ 1055, 1057, 111, 113 ],
             "09": [ 1055, 1057, 110, 112 ]
         },
-        
+
         {
             name: "Impel Down",
             shortName: "Impel Down",
@@ -523,7 +523,7 @@ window.drops = {
             "15": [  ],
             "16": [ 1158 ],
         },
-        
+
         {
             name: "Marineford",
             shortName: "Marineford",
@@ -543,7 +543,7 @@ window.drops = {
             "11": [  ],
             "12": [ 1228 ]
         },
-        
+
         {
             name: "Marineford - Oris Plaza",
             shortName: "Oris Plaza",
@@ -566,7 +566,7 @@ window.drops = {
             "14": [ 1283 ],
             "15": [ 1283 ],
         },
-        
+
         {
             name: "3D2Y - Timeskip Training",
             shortName: "3D2Y",
@@ -588,7 +588,7 @@ window.drops = {
             "13": [ 1352 ],
             "14": [ 1353 ],
         },
-        
+
         {
             name: "Return to Sabaody Archipelago",
             shortName: "Straw Hat Return",
@@ -604,7 +604,7 @@ window.drops = {
             "08": [  ],
             "09": [ 1392 ],
         },
-        
+
         {
             name: "Fishman Island",
             shortName: "Fishman Island",
@@ -625,7 +625,7 @@ window.drops = {
             "13": [ 1504 ],
             "14": [ 1505 ],
         },
-        
+
     ],
 
     'Weekly Island': [
@@ -692,7 +692,7 @@ window.drops = {
             global: true,
             ' ': [ 89, 90, 91, 92, 93, 95, 96, 97, 98, 99, 300, 301, 302, 303, 304 ]
         },
-        
+
         {
             name: 'Scissor Cavern, Deepest Parts',
             day: 4,
@@ -1138,7 +1138,7 @@ window.drops = {
             condition: 'You can only bring DEX units',
             "All Difficulties": [ 917, 919, 920, -920, -791, -756, -720, -706, -705, -542, -541, -522, -1117 ]
         },
-        
+
         {
             name: "Hannyabal's Great Ambition",
             thumb: 929,
@@ -1146,7 +1146,7 @@ window.drops = {
             condition: 'You can only bring STR units',
             "All Difficulties": [ 928, 930, 931, -752, -758, -520, -729, -733, -787, -930, -544, -506, -1115 ]
         },
-        
+
         {
             name: "Encounter! Whitebeard Pirates",
             thumb: 946,
@@ -1155,7 +1155,7 @@ window.drops = {
             "Japan": [ 946, 947, 948, 949, -718, -750, -760, -526, -793, -735, -546, -738, -1173 ],
             "Global": [ 946, 947, 948, 949, -718, -524, -1119, -528, -1177, -526, -793, -735, -546, -738, -1173 ]
         },
-        
+
         {
             name: "Clash! Whitebeard Pirates",
             thumb: 979,
@@ -1166,7 +1166,7 @@ window.drops = {
             "Japan": [ 979, 980, 981, 949, -459, -838, -842, -524, -789, -736, -731, -563, -1119 ],
             "Global": [ 979, 980, 981, 949, -459, -838, -842, -560, -789, -736, -731, -563, -1212 ]
         },
-        
+
         {
             name: "Let's Find Our Captain! Heart Pirates!",
             condition: "You can only bring QCK units",
@@ -1174,7 +1174,7 @@ window.drops = {
             global: true,
             "All Difficulties": [ 1002, 1004, 1005, -748, -844, -558, -846, -737, -1006, -785, -564, -1208 ]
         },
-        
+
         {
             name: "Rare Animal Island's Count Butler",
             thumb: 1011,
@@ -1183,7 +1183,7 @@ window.drops = {
             "Global": [ 1010, 1012, 1013, 1014, -1014, -530, -840, -671, -880, -739, -812, -565 ],
             "Japan": [ 1010, 1012, 1013, 1014, -1014, -530, -840, -560, -880, -739, -812, -565, -1212 ]
         },
-        
+
         {
             name: "Temptation!? The Queen of Kamabakka Queendom!",
             thumb: 1037,
@@ -1191,7 +1191,7 @@ window.drops = {
             condition: "Only DEX/RCV/TND orbs will appear",
             "All Dificulties": [ 1036, 1038, -874, -876, -878, -554, -813, -814, -566, -1175 ]
         },
-        
+
         {
             name: "The One Who Seeks the Truth of History: Archaeologist Nico Olvia",
             thumb: 1049,
@@ -1199,7 +1199,7 @@ window.drops = {
             condition: "Only TND/RCV/INT orbs will appear",
             "All Difficulties": [ 1048, 1050, 1052, -556, -567, -586, -614, -816, -870, -872, -908, -1210 ]
         },
-        
+
         {
             name: "Pirate Ship Competition! \"Dead End\" Opens!",
             thumb: 1072,
@@ -1208,7 +1208,7 @@ window.drops = {
             condition: "STR/DEX/QCK units get their ATK boosted by 1.6x. INT/PSY units get their HP boosted by 2.0x",
             "All Difficulties": [ 1069, 1071, 1073, -562, -906, -914, -645, -890, -587, -629, -888, -1070]
         },
-        
+
         {
             name: "Dr. Indigo & Scarlet!",
             thumb: 1095,
@@ -1217,7 +1217,7 @@ window.drops = {
             condition: "Boosts ATK of Driven characters by 2x and boosts HP for Powerhouse characters by 2x.",
             "All Difficulties": [ 1094, 1096, 1098, -649, -910, -647, -891, -590, -611, -893, -1098, -912]
         },
-        
+
         {
             name: "Robin and Nami's Secret Undercover Investigation",
             thumb: 1112,
@@ -1225,14 +1225,14 @@ window.drops = {
             condition: "Boosts ATK of Cerebral and Free Spirit characters by 2x, other classes get .5x ATK. Boosts HP of Striker and Shooter characters by 2x, other classes get .5x HP. (This STACKS for characters with multiple classes)",
             "All Difficulties": [ 1109, 1111, 1113, -23, -628, -639, -641, -892, -937, -939, -941 ]
         },
-        
+
         {
             name: "Behind the Scenes Intelligency Agency, CP9",
             thumb: 1137,
             condition: "Only [STR], [QCK], [DEX], [INT], and [PSY] orbs appear",
             "All Difficulties": [ 1136, 1137, 1138, 1139, -935, -643, -673, -894, -943, -995, -615, -705, -704 ]
         },
-        
+
         {
             name: "Welcome To The Gran Tesoro!",
             thumb: 1167,
@@ -1240,127 +1240,127 @@ window.drops = {
             condition: "None",
             "All Difficulties": [ 1166, 1168, 1170, -578, -999, -991, -993, -675, -508, -616, -703, -1121 ]
         },
-        
+
         {
             name: "Rumbar Pirates!",
             thumb: 1203,
             condition: "'Musical' units get their stats boosted by 1.5x (Dancers, Singers, Playing an instrument, etc)",
             "All Difficulties": [ 1202, 1204, 1206, -1001, -997, -558, -1208, -677, -896, -631, -954, -1206, -617, -1027 ]
         },
-        
+
         {
             name: "World Pirates!",
             thumb: 1215,
             condition: "Total Crew Cost must be lower than 180 (Including friend captain)",
             "All Difficulties": [ 1215, 1216, 1217, 1218, -1025, -1029, -1033, -671, -956, -964, -633, -504, -1218 ]
         },
-        
+
         {
             name: "Revolutionary Armed Forces!",
             thumb: 1242,
             condition: "Free Spirit Characters have their cooldowns reduced by 10 turns at the start of the fight",
             "All Difficulties": [ 1241, 1243, -1035, -965, -1031, -1081, -754, -966, -502, -707, -955 ]
         },
-        
+
         {
             name: "Gather! Whitebeard Alliance",
             thumb: 1254,
             condition: "Driven Characters have their cooldowns reduced by 10 turns at the start of the fight",
             "All Difficulties": [ 1254, 1255, 1256, -669, -1492, -1077, -1079, -967, -972, -974, -750, -701, -500 ]
         },
-        
+
         {
             name: "Young Donquixote Pirates - Baby 5 And Buffalo",
             thumb: 1287,
             condition: "Child-like characters get their ATK and HP boosted by 3.5x, RCV by 1.5x, and cooldowns reduced by 7 turns at the start of the fight",
             "All Difficulties": [ 1286, 1288, 1290, -963, -1045, -251, -760, -1083, -1129, -506, -1062, -702 ]
         },
-        
+
         {
             name: "Jailbreak Battle! Mr. 3 and Buggy",
             thumb: 1304,
             condition: "Shooter and Fighter characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (75% on 30 stamina)",
             "All Difficulties": [ 1301, 1303, 1152, 1151, 551, 539, -718, -752, -1125, -1133, -15, -203, -733, -1056, -1060 ]
         },
-        
+
         {
             name: "Tontatta Kingdom Island Part 1: Leo",
             thumb: 1328,
             condition: "Slasher characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (75% on 30 stamina)",
             "All Difficulties": [ 1327, 1329, 1330, -1085, -1127, -1131, -1058, -758, -760, -735, -4, -508, -1387 ]
         },
-        
+
         {
             name: "Tontatta Kingdom Island Part 2: Mansherry",
             thumb: 1332,
             condition: "Striker characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (70% on 30 stamina)",
             "All Difficulties": [ 1331, 1333, 1334, -720, -1186, -1190, -756, -1188, -1151, -1153, -738 ]
         },
-        
+
         {
             name: "Big Mom Pirates!",
             thumb: 1357,
             "All Difficulties": [ 1356, 1358, -1123, -1184, -1182, -1152, -1157, -8, -840, -736, -610, -1388 ]
         },
-        
+
         {
             name: "Soldier-san's Training!",
             thumb: 1384,
             "All Difficulties": [ 1383, 1385, -748, -1234, -1075, -1230, -1155, -1154, -846, -842, -739 ]
         },
-        
+
         {
             name: "Shambles! Tashigi and Smoker?!?",
             thumb: 1397,
             condition: "Your captain will be switched with your middle right character when you encounter Law.",
             "All Difficulties": [ 1396, 1398, -1192, -1232, -1238, -844, -838, -1159, -1389, -12, -737, -257, -1389 ]
         },
-        
+
         {
             name: "Marines! Sengoku the Fleet Admiral!",
             thumb: 1416,
             condition: "You can only bring INT units",
             "All Difficulties": [ 1415, 1417, 1418, -1418, -870, -1276, -1274, -1236, -874, -253, -1223, -813 ]
         },
-        
+
         {
             name: "Chinjao Family! The 13th Leader Appears!",
             thumb: 1426,
             condition: "You can only bring DEX units",
             "All Difficulties": [ 1425, 1427, 1428, -1240, -1272, -1270, -1227, -1224, -872, -878, -255, -812 ]
         },
-        
+
         {
             name: "Fugitive of Love and Passion!!",
             thumb: 1450,
             condition: "You can only bring STR units",
             "All Difficulties": [ 1449, 1451, -935, -1278, -1318, -1324, -880, -876, -259, -1226, -814 ]
         },
-        
+
         {
             name: "Gatekeeper of the New World! Stop the Rookies!",
             thumb: 1469,
             condition: "You can only bring QCK units",
             "All Difficulties": [ 1468, 1470, 1471, -1268, -1322, -1228, -906, -914, -310, -1061, -1470 ]
         },
-        
+
         {
             name: "Exit! Whitebeard Pirates",
             thumb: 1509,
             condition: "You can only bring PSY units",
             "All Difficulties": [ 1509, 1510, 1511, 1512, -1001, -1316, -1280, -314, -908, -16, -1446, -1370, -1368, -816 ],
         },
-        
+
         {
             name: "Dadan Family! Encounter with the Mountain Bandits",
             thumb: 1520,
             //condition: "You can only bring PSY units",
             "All Difficulties": [ 1519, 1521, 1522, -1314, -1366, -1364, -912, -937, -316, -1281, -891, -22, -1448 ],
         },
-        
+
     ],
 
-            
+
     'Raid': [
 
         {
@@ -1490,14 +1490,14 @@ window.drops = {
             Master: [ 864 ],
             Expert: [ 864 ]
         },
-        
+
         {
             name: 'Clash!! Pica',
             thumb: 932,
             Master: [ 932 ],
             Expert: [ 932 ]
         },
-        
+
         {
             name: 'Clash!! Kizaru',
             thumb: 978,
@@ -1505,14 +1505,14 @@ window.drops = {
             Ultimate: [ 977 ],
             Master: [ 977 ]
         },
-        
+
         {
             name: 'Clash!? Impostor Straw Hat Pirates',
             showManual: true,
             thumb: 989,
             Ultimate: [ 985, 986, 987, 988, -989, -4, -8, -11, -12, -15, -16, -1446, -556, -528, -520, -554, -558, -20, -1447, -217, -709, -1115, -1177, -1175, -1210, -1208, -1387, -1388, -1389 ]
         },
-        
+
         {
             name: 'Clash!! Sabo',
             global: true,
@@ -1521,7 +1521,7 @@ window.drops = {
             Master: [ 1046 ],
             Expert: [ 1046 ]
         },
-        
+
         {
             name: 'Clash!! Shiki',
             thumb: 1108,
@@ -1530,15 +1530,15 @@ window.drops = {
             Master: [ 1107 ],
             Expert: [ 1107 ]
         },
-        
+
         {
             name: 'Clash!! Gild Tesoro',
-            thumb: 1163, 
+            thumb: 1163,
             global: true,
             Master: [ 1162, 1164 ],
             Ultimate: [ 1162, 1164, 1180 ]
         },
-        
+
         {
             name: 'Clash!! Akainu',
             thumb: 1298,
@@ -1591,13 +1591,13 @@ window.drops = {
             challengeData: [['Japan Rewards', ''],['10 Times','#686 Vivi\'s Breather Unit'],['35 Times','1x HP Cotton Candy'],['72 Times','3x Rainbow Gems'], ['Global Rewards', ''],['10 Times','1x Bind Resistance Forbidden Tome, 1x Despair Resistance Forbidden Tome, 1x Auto-Heal Forbidden Tome, 1x Rainbow Gem'],['35 Times','1x Red Elder Turtle, 1x Blue Elder Turtle, 1x Green Elder Turtle, 1x Yellow Elder Turtle, 1x Black Elder Turtle, 2x Rainbow Gems'],['72 Times','5x Rainbow Gems']],
             "All Difficulties": [ 659, 680, 682, 684, 1200, 1198 ]
         },
-        
+
         {
             name: 'Halloween Event Characters',
             thumb: 1300,
             "All Difficulties": [ 1299, 1305, 1325 ],
         },
-        
+
         {
             name: 'Valentines Day and White Day Characters',
             thumb: 1463,
@@ -1606,7 +1606,7 @@ window.drops = {
             "Sanji": [ 1507, 52, 207, 892, 343, 190, 111, 106, 115, 116, 117, 1180, 266, 94, 83 ],
             "Brook": [ 1515, 954, 614, 379, 730, 342, 189, 110, 105, 115, 116, 117, 1180, 266, 94, 83 ],
         },
-        
+
         {
             name: '2nd Anniversary Celebration! Duel! Ace',
             thumb: 1023,
@@ -1621,7 +1621,7 @@ window.drops = {
             Underground: [ 776, 778, 803, 832, 834, 859, 861, 883, 902, 904, 925, 927, 952, 984, 1017, 1019, 1197, 1221, 1252, 1253, 1293, 1311, 1339, 1340, 1377, 1402, 1423, 1424, 1457, 1459, 1488, 1490, 1526, 1528 ],
             Chaos: [ 776, 778, 780, 803, 805, 830, 832, 834, 859, 861, 881, 883, 900, 902, 923, 925, 950, 982, 984, 1017, 1015, 1040, 1042, 1086, 1088, 1090, 1101, 1103, 1105, 1140, 1142, 1144, 1195, 1219, 1221, 1250, 1252, 1291, 1293, 1309, 1311, 1337, 1339, 1340, 1375, 1377, 1400, 1402, 1421, 1423, 1455, 1457, 1486, 1488, 1525, 1526, 1528 ]
         },
-        
+
         {
             name: 'Rescue Ace Event - Akainu',
             thumb: 1283,
@@ -1632,7 +1632,7 @@ window.drops = {
             "Global": [ -261, -1413, -562, -720, -8, -1388, -219, -75, -255, -314, -316, -357, -410, -408, -449, -451, -455, -641, -643, -754, -760, -840, -880, -906, -910, -999, -554, -1175, -528, -1177, -560, -1212, -1245, -218, -22, -1448, -24, -204, -384, -504, -508, -785, -789 ],
             "Japan": [ -261, -562, -720, -748, -935, -1413 ]
         },
-        
+
         {
             name: 'Rescue Ace Event - Aokiji',
             thumb: 1280,
@@ -1643,7 +1643,7 @@ window.drops = {
             "Global": [ -416, -459, -530, -217, -004, -1387, -12, -221, -1389, -77, -210, -253, -259, -310, -312, -361, -363, -414, -453, -645, -647, -752, -756, -937, -939, -991, -520, -1115, -524, -1119, -558, -1208, -1245, -25, -202, -208, -206, -502, -787, -789, -739, -1445 ],
             "Japan": [ -416, -459, -530, -669, -1492, -578, -1121, -1445 ]
         },
-        
+
         {
             name: 'Rescue Ace Event - Kizaru',
             thumb: 1228,
@@ -1654,21 +1654,26 @@ window.drops = {
             "Global": [ -367, -649, -718, -16, -1446, -20, -1447, -73, -251, -257, -308, -359, -365, -412, -457, -639, -750, -758, -912, -914, -941, -993, -522, -1117, -526, -1173, -556, -1210, -1245, -223, -15, -23, -25, -200, -225, -546, -500, -506, -569, -791, -793 ],
             "Japan": [ -367, -649, -718, -870, -1001 ]
         },
-        
+
         {
             name: 'Invasion! Young Whitebeard',
             thumb: 1258,
             condition: "Has a chance of appearing at the end of ANY Raid boss. You MUST use the same team that you just used to complete the raid boss to fight Young Whitebeard.",
             "All Difficulties": [ 1257 ]
         },
-        
+
         {
             name: 'Invasion! Red Hair Shanks',
             thumb: 1380,
             condition: "Has a chance of appearing at the end of ANY Chaos Coliseum boss. You MUST use the same team that you just used to complete the Coliseum boss to fight Shanks.",
             "All Difficulties": [ 1379 ]
         },
-        
+        {
+            name: 'Invasion! Cavendish',
+            thumb: 1530,
+            condition: "Has a chance of appearing at the end of ANY Chaos Coliseum boss. You MUST use the same team that you just used to complete the Coliseum boss to fight Cavendish.",
+            "All Difficulties": [ 1530 ]
+        },
         {
             name: 'The Flashback Before the Reunion! Fight all your Enemies!',
             thumb: 1353,

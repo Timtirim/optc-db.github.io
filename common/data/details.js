@@ -3744,13 +3744,13 @@ window.details = {
         specialName: "Surprise Stab",
         special: "Deals 3x character's ATK in [PSY] damage to one enemy, Boosts ATK of Slasher and Driven characters by 1.75x for 1 turns if used below 20% HP",
         captain: "Protects from defeat as long as HP is above 50%",
-        captainNotes: "#{zombie}" 
+        captainNotes: "#{zombie}"
     },
     829: {
         specialName: "Surprise Stab",
         special: "Deals 3x character's ATK in [PSY] damage to one enemy, Boosts ATK of Slasher and Driven characters by 1.75x for 1 turns if used below 20% HP",
         captain: "Protects from defeat as long as HP is above 30%",
-        captainNotes: "#{zombie}" 
+        captainNotes: "#{zombie}"
     },
     830: {
         captain: "Boosts ATK of Cerebral and Striker characters by 1.75x, deals 2 times the damage received in the previous turn in DEX damage to all enemies at the end of each turn",
@@ -4383,7 +4383,7 @@ window.details = {
                 "cooldown": [ 31, 17 ]
             }
         ],
-        specialNotes: "#{stages}"	
+        specialNotes: "#{stages}"
         },
     933: {
         captain: "Boosts ATK of Powerhouse characters by 2.25x, and their HP by 1.5x",
@@ -4680,16 +4680,16 @@ window.details = {
         special: "Delays all enemies for 1 turn, Locks all orbs for 1 turn"
     },
     985:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"
     },
     986:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"
     },
     987:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"
     },
     988:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"
     },
     989:{
         captain: "Boosts ATK of characters with cost above 20 and below 30 by 2.5x, but reduces the HP of every character by 90%",
@@ -5078,13 +5078,13 @@ window.details = {
     1048: {
         captain: "Boosts ATK and RCV of [PSY] characters by 1.2x",
         special: "Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns",
-        specialName: "Mother's Wish to Fight The World"		
+        specialName: "Mother's Wish to Fight The World"
     },
     1049: {
         captain: "Boosts ATK and RCV of [PSY] characters by 1.5x, when HP is low the ATK multiplier becomes 2.25x",
         captainNotes: "The low HP threshold is estimated to be 30%",
         special: "Reduces Paralysis duration by 3 turns and Recovers 4x character's RCV in HP at the end of each turn for 3 turns",
-        specialName: "Mother's Wish to Fight The World"		
+        specialName: "Mother's Wish to Fight The World"
     },
     1050: {
         captain: "Boosts ATK of [PSY] characters by 1.5x",
@@ -5493,7 +5493,7 @@ window.details = {
     1113: {
         captain: "Boosts ATK of [INT] characters by 2x",
         special: "Boosts ATK of all characters by 1.2x for 1 turn",
-        specialName: "Fury of the Little Monster: \"This is War!!!\""  
+        specialName: "Fury of the Little Monster: \"This is War!!!\""
     },
     1114: {
         special: "Reduces crew's current HP by 99%, deals 25x character's ATK in fixed damage to all enemies, boosts ATK of STR characters by 2x for 1 turn",
@@ -6170,7 +6170,7 @@ window.details = {
                 "description": "Deals 25x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 2x for 1 turn",
                 "cooldown": [ 34, 18 ],
             },
-        ],        
+        ],
         specialName: "More More, 10 Times \"Iron Hammer\"",
     },
     1220: {//Byrnndi World Coliseum
@@ -6188,7 +6188,7 @@ window.details = {
                 "description": "Deals 25x character's ATK in [INT] damage to one enemy. Reduces crew's current HP by 50%. Boosts ATK of Shooter characters by 2x for 1 turn",
                 "cooldown": [ 34, 18 ],
             },
-        ],        
+        ],
         specialName: "More More, 10 Times \"Iron Hammer\"",
     },
     1221: {//Coliseum Oars Jr
@@ -6246,7 +6246,7 @@ window.details = {
             },
             {
                 "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
-                "cooldown": [ 22, 15 ], 
+                "cooldown": [ 22, 15 ],
             },
         ],
         sailor: "Cannot be Blown Away (Such as Raid Boss Kuma)",
@@ -6265,7 +6265,7 @@ window.details = {
             },
             {
                 "description": "Deals 100,000 fixed damage to one enemy. Reduces Special Cooldown of your top row by 2 turns",
-                "cooldown": [ 22, 15 ], 
+                "cooldown": [ 22, 15 ],
             },
         ],
         sailor: "Cannot be Blown Away (Such as Raid Boss Kuma)",
@@ -6343,9 +6343,9 @@ window.details = {
             },
             {
                 "description": "Changes all orbs on Shooter and Slasher characters into Matching orbs. Recovers 10x character's RCV in HP. Deals 10 hits of large random typeless damage to random enemies.",
-                "cooldown": [ 20, 17 ], 
+                "cooldown": [ 20, 17 ],
             },
-        ],    
+        ],
         specialNotes: "#{randomHits : 10}",
     },
     1240: {//6* Kizaru
@@ -6364,7 +6364,7 @@ window.details = {
                 "description": "Changes all orbs on Shooter and Slasher characters into Matching orbs. Recovers 10x character's RCV in HP. Deals 10 hits of large random typeless damage to random enemies.",
                 "cooldown": [ 20, 17 ],
             },
-        ],    
+        ],
         specialNotes: "#{randomHits : 10}",
     },
     1241: {//Fortnight Koala
@@ -6431,7 +6431,7 @@ window.details = {
                 "description": "Randomizes non-matching orbs, and boosts ATK of Powerhouse characters by 1.5x for 1 turn",
                 "cooldown": [ 24, 9 ],
             },
-        ], 
+        ],
         specialName: "Burning Vanguard",
     },
     1251: {// Coliseum Marco
@@ -6446,7 +6446,7 @@ window.details = {
                 "description": "Randomizes non-matching orbs, and boosts ATK of Powerhouse characters by 1.5x for 1 turn",
                 "cooldown": [ 24, 9 ],
             },
-        ], 
+        ],
         specialName: "Burning Vanguard",
     },
     1252: {// Coliseum Doma
@@ -6494,7 +6494,7 @@ window.details = {
                 "description": "Cuts the current HP of each enemy by 40%",
                 "cooldown": [ 36, 24 ],
             },
-        ], 
+        ],
         specialName: "Earth Shattering Fist",
     },
     1258: {//Young Whitebeard Evolved
@@ -7978,7 +7978,7 @@ window.details = {
         special: "Reduces the defense of all enemies by 100% for 1 turn. changes own orb into [PSY] and friend captain's orb into [STR]",
         specialName: "Rosy Pleasure",
     },
-    1468: {//Fortnight Sentomaru 
+    1468: {//Fortnight Sentomaru
         captain: "Boosts ATK of [STR] characters by 1.75x and the HP of Powerhouse characters by 1.2x",
         captainNotes: "Captain ability stacks, so a [STR] Powerhouse character benefits from both parts",
         special: "Delays all enemies for 1 turn. Changes own orb into Matching orb",
@@ -8306,5 +8306,15 @@ window.details = {
         captain: "Boosts ATK of Driven characters by 2.5x",
         special: "Cuts the current HP of each enemy by 10%, makes [PSY] and [INT] orbs \"beneficial\" for all characters for 1 turn and amplifies the effect of orbs by 1.75x for 1 turn",
         specialName: "Spring Hopper - Bullet",
+    },
+    1529: {//Invasion Cavendish
+        captain: "Boosts ATK of all characters by 1.75x, but boosts his OWN attack by 3.5x",
+        special: "Amplifies the effect of orbs for Slasher characters by 2.25x for 1 turn, if HP is above a certain amount, by 2x otherwise",
+        specialName: "null",
+    },
+    1530: {//Invasion Cavendish
+        captain: "Boosts ATK of all characters by 1.75x, but boosts his OWN attack by 3.5x",
+        special: "Amplifies the effect of orbs for Slasher characters by 2.25x for 1 turn, if HP is above a certain amount, by 2x otherwise",
+        specialName: "null",
     },
 };
